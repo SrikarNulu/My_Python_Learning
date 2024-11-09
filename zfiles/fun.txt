@@ -1,0 +1,4 @@
+word count: 6 teacher: why are you late frank?
+word count: 5 frank: i saw a sigh.
+word count: 3 teacher: which sigh?
+word count: 5 frank: school ahead, go slow..

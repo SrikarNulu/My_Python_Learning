@@ -1,0 +1,17 @@
+product is: 48 for the given numbers 6,8
+product is: 42 for the given numbers 7,6
+product is: 16 for the given numbers 2,8
+product is: 45 for the given numbers 9,5
+product is: 54 for the given numbers 9,6
+product is: 1 for the given numbers 1,1,1,1,1,1,1,1,1,1
+product is: 1721868840 for the given numbers 2,2,2,3,3,9,9,9,9,9,9,9,5
+
+
+
+sum: 14 | 6,8
+sum: 13 | 7,6
+sum: 10 | 2,8
+sum: 14 | 9,5
+sum: 15 | 9,6
+sum: 10 | 1,1,1,1,1,1,1,1,1,1
+sum: 80 | 2,2,2,3,3,9,9,9,9,9,9,9,5
